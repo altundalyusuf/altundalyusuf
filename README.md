@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A Passionate Learner</h3>
+<h3 align="center">A Passionate Learner From Turkey</h3>
 
 - 🔭 I’m studying at **Istanbul Medeniyet University**
 
