@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A Passionate Learner From Turkey</h3>
 
-- 🔭 I’m studying at **Istanbul Medeniyet University**
+- 🔭 I’m a **Computer Engineer**
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning **React, Node.js, MongoDB and Express.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/altundalyusuf?tab=repositories](https://github.com/altundalyusuf?tab=repositories)
 
