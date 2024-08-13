@@ -3,7 +3,7 @@
 
 - 🔭 I’m a **Computer Engineer**
 
-- 🌱 I’m currently learning **React, Node.js, MongoDB and Express.js and more...**
+- 🌱 I’m currently learning and developing with **React, Node.js, MongoDB and Express.js and more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/altundalyusuf?tab=repositories](https://github.com/altundalyusuf?tab=repositories)
 
