@@ -1,17 +1,42 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A Passionate Learner From Turkey</h3>
+### Hi there, I'm Yusuf! 👋
 
-- 🔭 I’m a **Computer Engineer**
+I'm a **Frontend Developer** specializing in **React** and **TypeScript**, with a strong background in building enterprise-scale applications. Previously at **NTT Data**, I contributed to high-traffic projects for global clients like Koç Holding and BSH.
 
-- 🌱 I’m currently learning and developing with **React, Node.js, MongoDB and Express.js and more...**
+Currently, I'm expanding my expertise into **Mobile Development (React Native)** while continuing to architect scalable web solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/altundalyusuf?tab=repositories](https://github.com/altundalyusuf?tab=repositories)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yusufaltundal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufaltundal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/altundalyusuf18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="altundalyusuf18" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://ysoftaoglu.com/static/cee335ed9d00dd31a2b6fad3cae93029/aa4a2/tailwind-css-nedir.png" alt="tailwind.css" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node.js" width="40" height="40"/> </a> <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material ui" width="40" height="40"/> </a> <a href="hhttps://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" alt="redux toolkit" width="40" height="40"/> </a></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=altundalyusuf&show_icons=true&theme=radical&hide_border=true" height="150" alt="Yusuf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altundalyusuf&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🔗 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yusufaltundal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yusuf-altundal.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
