@@ -19,17 +19,6 @@ Currently, I'm expanding my expertise into **Mobile Development (React Native)**
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=altundalyusuf&show_icons=true&theme=radical&hide_border=true" height="150" alt="Yusuf's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altundalyusuf&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### 🔗 Connect with Me
 
 <div align="left">
