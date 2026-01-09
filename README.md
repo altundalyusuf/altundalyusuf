@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf! 👋
 
-I'm a **Frontend Developer** specializing in **React** and **TypeScript**, with a strong background in building enterprise-scale applications. Previously at **NTT Data**, I contributed to high-traffic projects for global clients like Koç Holding and BSH.
+I'm a **Software Developer** specializing in **React** and **TypeScript**, with a strong background in building enterprise-scale applications. Previously at **NTT Data**, I contributed to high-traffic projects for global clients like Koç Holding and BSH.
 
 Currently, I'm expanding my expertise into **Mobile Development (React Native)** while continuing to architect scalable web solutions.
 
