@@ -1,8 +1,8 @@
 ### Hi there, I'm Yusuf! 👋
 
-I'm a **Software Developer** specializing in **React** and **TypeScript**, with a strong background in building enterprise-scale applications. Previously at **NTT Data**, I contributed to high-traffic projects for global clients like Koç Holding, BSH and Alba.
+I'm a **Software Developer** specializing in **JavaScript** and **TypeScript**, with a strong background in building enterprise-scale applications. Previously at **NTT Data**, I contributed to high-traffic projects for global clients like Koç Holding, BSH and Alba.
 
-Currently, I'm expanding my expertise into **Mobile Development (React Native)** while continuing to architect scalable web solutions.
+Currently, I'm working as a **Software Engineer** at **Huawei**, engineering scalable solutions and shaping the future!
 
 ---
 
